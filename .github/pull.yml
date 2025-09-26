@@ -1,7 +1,7 @@
 version: "1"
 rules:
   - base: master
-    upstream: LmeSzinc:master
+    upstream: yukikaze25:master
     mergeMethod: merge
     mergeUnstable: true
 label: ":arrow_heading_down: pull"
